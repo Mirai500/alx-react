@@ -1,0 +1,1 @@
+document.querySelector("#text").innerHTML="Hello, Webpack!",console.log("Hello, Webpack!");
